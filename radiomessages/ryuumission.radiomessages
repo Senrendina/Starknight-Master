@@ -1,0 +1,10 @@
+{
+  "StarknightKalTharIntro" : {
+    "important" : true,
+    "type" : "mission",
+    "senderName" : "Kal'Thar",
+    "portraitImage" : "/interface/chatbubbles/Kal'Thar.png:<frame>",	
+    "text" : "Hello. Do you hear me ? I guess yes. Since you have stopped moving. I see that you reached the outpost. We need you to go check out the Satellite see why is not functionnal anymore. Kal'Thar Out."
+  }	
+}  
+
