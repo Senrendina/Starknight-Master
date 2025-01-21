@@ -6,109 +6,103 @@
      "width":1
     },
  "margin":0,
- "name":"Banished Object",
+ "name":"CSR_Object",
  "spacing":0,
  "tilecount":13,
  "tiledversion":"1.10.2",
- "tileheight":40,
+ "tileheight":72,
  "tileproperties":
     {
      "0":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_BigWallScreen",
+         "object":"CSR_LightFront",
          "tilsetdirection":"right"
         },
      "1":
         {
-         "\/\/description":"This crafting station is where you can craft Banished Furniture",
-         "\/\/name":"BD_Replicator",
-         "\/\/shortdescription":"Banished Replicator",
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_Replicator",
+         "object":"CSR_LightLarge",
          "tilsetdirection":"right"
         },
      "10":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_Ceiling1",
-         "tilsetdirection":"right"
+         "object":"CSR_Shiplocker",
+         "tilesetdirection":"right"
         },
      "11":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_Console",
-         "tilsetdirection":"right"
+         "object":"CSR_StandingConsole",
+         "tilesetdirection":"right"
         },
      "12":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_LargeConsole",
-         "tilsetdirection":"right"
+         "object":"CSR_LargeThruster",
+         "tilesetdirection":"right"
         },
      "2":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_Door",
-         "tilsetDirection":"right"
+         "object":"CSR_ShipDoor",
+         "tilesetdirection":"right"
         },
      "3":
         {
-         "\/\/description":"A Giant Light Pylone",
-         "\/\/name":"BD_LightPylone",
-         "\/\/shortdescription":"Light Pylone",
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_LightPylone",
-         "tildirection":"right"
+         "object":"CSR_CraftingTable",
+         "tilesetdirection":"right"
         },
      "4":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_Incinerator",
-         "tilsetdirection":"right"
+         "object":"CSR_CeilingMonitor",
+         "tilesetdirection":"right"
         },
      "5":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_Fabricator",
-         "tilsetdirection":"right"
+         "object":"CSR_Generator",
+         "tilesetdirection":"right"
         },
      "6":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_ShipLocker",
-         "tilsetdirection":"right"
+         "object":"CSR_Generator2",
+         "tilesetdirection":"right"
         },
      "7":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_BLights",
-         "tilsetdirection":"right"
+         "object":"CSR_LargeStorage",
+         "tilesetdirection":"right"
         },
      "8":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_HoloTable",
-         "tilsetdirection":"right"
+         "object":"CSR_ShipCoreGenerator",
+         "tilesetdirection":"right"
         },
      "9":
         {
-         "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"BD_Ceiling3",
-         "tilsetdirection":"right"
+         "imagepositionX":"0",
+         "object":"CSR_ShipCoreGeneratorLeftRight",
+         "tilesetdirection":"right"
         }
     },
  "tilepropertytypes":
@@ -122,9 +116,6 @@
         },
      "1":
         {
-         "\/\/description":"string",
-         "\/\/name":"string",
-         "\/\/shortdescription":"string",
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
@@ -135,164 +126,161 @@
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
-         "tilsetdirection":"string"
+         "tilesetdirection":"string"
         },
      "11":
         {
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
-         "tilsetdirection":"string"
+         "tilesetdirection":"string"
         },
      "12":
         {
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
-         "tilsetdirection":"string"
+         "tilesetdirection":"string"
         },
      "2":
         {
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
-         "tilsetDirection":"string"
+         "tilesetdirection":"string"
         },
      "3":
         {
-         "\/\/description":"string",
-         "\/\/name":"string",
-         "\/\/shortdescription":"string",
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
-         "tildirection":"string"
+         "tilesetdirection":"string"
         },
      "4":
         {
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
-         "tilsetdirection":"string"
+         "tilesetdirection":"string"
         },
      "5":
         {
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
-         "tilsetdirection":"string"
+         "tilesetdirection":"string"
         },
      "6":
         {
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
-         "tilsetdirection":"string"
+         "tilesetdirection":"string"
         },
      "7":
         {
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
-         "tilsetdirection":"string"
+         "tilesetdirection":"string"
         },
      "8":
         {
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
-         "tilsetdirection":"string"
+         "tilesetdirection":"string"
         },
      "9":
         {
-         "imagePositionX":"string",
          "imagePositionY":"string",
+         "imagepositionX":"string",
          "object":"string",
-         "tilsetdirection":"string"
+         "tilesetdirection":"string"
         }
     },
  "tiles":
     {
      "0":
         {
-         "image":"BD_BigWallScreen.png",
-         "imageheight":24,
-         "imagewidth":40
+         "image":"CSR_LightFronticon.png",
+         "imageheight":8,
+         "imagewidth":16
         },
      "1":
         {
-         "image":"BD_Replicator.png",
-         "imageheight":24,
+         "image":"CSR_LightLargeicon.png",
+         "imageheight":8,
          "imagewidth":32
         },
      "10":
         {
-         "image":"bd_ceiling1.png",
-         "imageheight":16,
-         "imagewidth":24
+         "image":"CSR_ShipLocker.png",
+         "imageheight":24,
+         "imagewidth":32
         },
      "11":
         {
-         "image":"bd_console.png",
-         "imageheight":16,
+         "image":"CSR_StandingConsole.png",
+         "imageheight":32,
          "imagewidth":24
         },
      "12":
         {
-         "image":"bd_largeconsole.png",
-         "imageheight":16,
-         "imagewidth":40
+         "image":"CSR_LargeThruster.png",
+         "imageheight":56,
+         "imagewidth":64
         },
      "2":
         {
-         "image":"BD_Door.png",
+         "image":"CSR_ShipDoor.png",
          "imageheight":40,
          "imagewidth":16
         },
      "3":
         {
-         "image":"BD_LightPylone.png",
-         "imageheight":32,
-         "imagewidth":16
+         "image":"CSR_CraftingTable.png",
+         "imageheight":40,
+         "imagewidth":96
         },
      "4":
         {
-         "image":"bd_incinerator.png",
-         "imageheight":40,
-         "imagewidth":88
+         "image":"CSR_CeilingMonitor.png",
+         "imageheight":24,
+         "imagewidth":32
         },
      "5":
         {
-         "image":"bd_fabricator.png",
-         "imageheight":32,
-         "imagewidth":64
+         "image":"CSR_Generator.png",
+         "imageheight":40,
+         "imagewidth":120
         },
      "6":
         {
-         "image":"bd_shiplocker.png",
-         "imageheight":24,
-         "imagewidth":32
+         "image":"CSR_Generator2.png",
+         "imageheight":40,
+         "imagewidth":80
         },
      "7":
         {
-         "image":"bd_blights.png",
-         "imageheight":16,
-         "imagewidth":8
+         "image":"CSR_LargeStorage.png",
+         "imageheight":32,
+         "imagewidth":72
         },
      "8":
         {
-         "image":"bd_holotable.png",
-         "imageheight":16,
-         "imagewidth":64
+         "image":"CSR_ShipCoreGenerator.png",
+         "imageheight":72,
+         "imagewidth":32
         },
      "9":
         {
-         "image":"bd_ceiling3.png",
-         "imageheight":24,
-         "imagewidth":32
+         "image":"CSR_ShipCoreGeneratorLeftRight.png",
+         "imageheight":32,
+         "imagewidth":72
         }
     },
- "tilewidth":88,
+ "tilewidth":120,
  "type":"tileset",
  "version":1.1
 }
