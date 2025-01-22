@@ -8,7 +8,7 @@
  "margin":0,
  "name":"SK_Objects",
  "spacing":0,
- "tilecount":19,
+ "tilecount":23,
  "tiledversion":"1.10.2",
  "tileheight":80,
  "tileproperties":
@@ -90,12 +90,40 @@
          "object":"SK_Led_Top",
          "tilsetdirection":"right"
         },
+     "19":
+        {
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"SK_Kal'Thar",
+         "tilesetdirection":"right"
+        },
      "2":
         {
          "imagePositionX":"0",
          "imagePositionY":"0",
          "object":"SK_door",
          "tilsetdirection":"right"
+        },
+     "20":
+        {
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"metalstartable",
+         "tilesetdirection":"right"
+        },
+     "21":
+        {
+         "imagePositionX":"-32",
+         "imagePositionY":"0",
+         "object":"StarknightMissionTeleporter",
+         "tilesetdirection":"right"
+        },
+     "22":
+        {
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"SK_Toka",
+         "tilesetdirection":"right"
         },
      "3":
         {
@@ -226,12 +254,40 @@
          "object":"string",
          "tilsetdirection":"string"
         },
+     "19":
+        {
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetdirection":"string"
+        },
      "2":
         {
          "imagePositionX":"string",
          "imagePositionY":"string",
          "object":"string",
          "tilsetdirection":"string"
+        },
+     "20":
+        {
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetdirection":"string"
+        },
+     "21":
+        {
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetdirection":"string"
+        },
+     "22":
+        {
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetdirection":"string"
         },
      "3":
         {
@@ -287,115 +343,139 @@
     {
      "0":
         {
-         "image":"..\/starknight_object\/starknight_ledleft.png",
+         "image":"starknight_ledleft.png",
          "imageheight":16,
          "imagewidth":8
         },
      "1":
         {
-         "image":"..\/starknight_object\/starknight_bed.png",
+         "image":"starknight_bed.png",
          "imageheight":16,
          "imagewidth":48
         },
      "10":
         {
-         "image":"..\/starknight_object\/sk_solarpanel.png",
+         "image":"sk_solarpanel.png",
          "imageheight":40,
          "imagewidth":40
         },
      "11":
         {
-         "image":"..\/starknight_object\/sk_fourvents.png",
+         "image":"sk_fourvents.png",
          "imageheight":24,
          "imagewidth":32
         },
      "12":
         {
-         "image":"..\/starknight_object\/sk_multipleceilingmonitor.png",
+         "image":"sk_multipleceilingmonitor.png",
          "imageheight":24,
          "imagewidth":64
         },
      "13":
         {
-         "image":"..\/starknight_object\/sk_server.png",
+         "image":"sk_server.png",
          "imageheight":40,
          "imagewidth":32
         },
      "14":
         {
-         "image":"..\/starknight_object\/sk_deco1.png",
+         "image":"sk_deco1.png",
          "imageheight":40,
          "imagewidth":56
         },
      "15":
         {
-         "image":"..\/starknight_object\/sk_unitedscreen.png",
+         "image":"sk_unitedscreen.png",
          "imageheight":16,
          "imagewidth":32
         },
      "16":
         {
-         "image":"..\/starknight_object\/sk_largeconsole.png",
+         "image":"sk_largeconsole.png",
          "imageheight":24,
          "imagewidth":32
         },
      "17":
         {
-         "image":"..\/starknight_object\/starknight_led.png",
+         "image":"starknight_led.png",
          "imageheight":16,
          "imagewidth":8
         },
      "18":
         {
-         "image":"..\/starknight_object\/sk_led_topicon.png",
+         "image":"sk_led_topicon.png",
          "imageheight":8,
+         "imagewidth":16
+        },
+     "19":
+        {
+         "image":"SK_Kal'Thar.png",
+         "imageheight":32,
          "imagewidth":16
         },
      "2":
         {
-         "image":"..\/starknight_object\/sk_door.png",
+         "image":"sk_door.png",
          "imageheight":40,
+         "imagewidth":16
+        },
+     "20":
+        {
+         "image":"metalstartable.png",
+         "imageheight":32,
+         "imagewidth":32
+        },
+     "21":
+        {
+         "image":"StarknightMissionTeleporter.png",
+         "imageheight":16,
+         "imagewidth":64
+        },
+     "22":
+        {
+         "image":"Toka.png",
+         "imageheight":32,
          "imagewidth":16
         },
      "3":
         {
-         "image":"..\/starknight_object\/starknight_lowerteleporter.png",
+         "image":"starknight_lowerteleporter.png",
          "imageheight":16,
          "imagewidth":48
         },
      "4":
         {
-         "image":"..\/starknight_object\/sk_bar.png",
+         "image":"sk_bar.png",
          "imageheight":48,
          "imagewidth":48
         },
      "5":
         {
-         "image":"..\/starknight_object\/sk_couch.png",
+         "image":"sk_couch.png",
          "imageheight":16,
          "imagewidth":32
         },
      "6":
         {
-         "image":"..\/starknight_object\/SK_Container.png",
+         "image":"SK_Container.png",
          "imageheight":32,
          "imagewidth":48
         },
      "7":
         {
-         "image":"..\/starknight_object\/SK_Container2.png",
+         "image":"SK_Container2.png",
          "imageheight":32,
          "imagewidth":48
         },
      "8":
         {
-         "image":"..\/starknight_object\/SK_Crate4.png",
+         "image":"SK_Crate4.png",
          "imageheight":16,
          "imagewidth":40
         },
      "9":
         {
-         "image":"..\/starknight_object\/sk_teleporter.png",
+         "image":"sk_teleporter.png",
          "imageheight":80,
          "imagewidth":64
         }
