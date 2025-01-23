@@ -2,9 +2,58 @@
   "StarknightKalTharIntro" : {
     "important" : true,
     "type" : "mission",
-    "senderName" : "Kal'Thar",
+    "senderName" : "Ryoko",
     "portraitImage" : "/interface/chatbubbles/Kal'Thar.png:<frame>",	
-    "text" : "Hello. Do you hear me ? I guess yes. Since you have stopped moving. I see that you reached the outpost. We need you to go check out the Satellite see why is not functionnal anymore. Kal'Thar Out."
-  }	
+    "text" : "Hello. Do you hear me ? I guess yes. Since you have stopped moving. I see that you reached the outpost. We need you to go check out the Satellite see why is not functional anymore. Ryoko Out."
+  },
+  "starknight_Satelliterepaired" : {
+    "important" : true,
+    "type" : "mission",
+    "senderName" : "Ryoko",
+    "portraitImage" : "/interface/chatbubbles/Kal'TharHappy.png:<frame>",	
+    "text" : "hey ! You did it. Alright, you can come back now."
+  },
+  "StarknightBanishedPlatform" : {
+    "important" : true,
+    "type" : "mission",
+    "senderName" : "Ryoko",
+    "portraitImage" : "/interface/chatbubbles/Kal'TharSurprised.png:<frame>",	
+    "text" : "Banished platform ?"
+  },
+  "StarknightExplaination" : {
+    "important" : true,
+    "type" : "mission",
+    "senderName" : "Ryoko",
+    "portraitImage" : "/interface/chatbubbles/Kal'Thar.png:<frame>",	
+    "text" : "Well... No wonder our satellite has been shut down. Go have fun and get rid of them."
+  },
+  "StarknightStrange" : {
+    "important" : true,
+    "type" : "mission",
+    "senderName" : "Ryoko",
+    "portraitImage" : "/interface/chatbubbles/Kal'TharSurprised.png:<frame>",	
+    "text" : "Hmmm ? I think i saw something strange a second ago..."
+  },
+  "StarknightSmirk" : {
+    "important" : true,
+    "type" : "mission",
+    "senderName" : "Ryoko",
+    "portraitImage" : "/interface/chatbubbles/Kal'Thar.png:<frame>",	
+    "text" : "Ah ! I was right about that. They may have made that to help us if we got problem."
+  },
+  "StarknightFamiliar" : {
+    "important" : true,
+    "type" : "mission",
+    "senderName" : "Ryoko",
+    "portraitImage" : "/interface/chatbubbles/Kal'Thar.png:<frame>",	
+    "text" : "That's some familiar structure now..."		
+  },
+  "StarknightAdvice" : {
+    "important" : true,
+    "type" : "mission",
+    "senderName" : "Ryoko",
+    "portraitImage" : "/interface/chatbubbles/Kal'Thar.png:<frame>",	
+    "text" : "That the things inside of that locker you will need it."		
+  }	  
 }  
 
