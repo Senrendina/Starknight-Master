@@ -17,5 +17,28 @@
 				]
 			}
 		]
-	]	
+	],
+	
+	"Starknight_Mission2Box" : [
+		[1, 
+			{
+				"fill" : [
+					{ "item" : [ "SK_Heavyarmorhead2", 1 ] },
+					{ "item" : [ "healingjuice", 3 ] },
+					{ "item" : [ "nanowrap", 2 ] }
+				]
+			}
+		]
+	],
+	
+	"Starknight_Mission2Box2" : [
+		[1, 
+			{
+				"fill" : [
+					{ "item" : [ "healingjuice", 10 ] },
+					{ "item" : [ "nanowrap", 10 ] }
+				]
+			}
+		]
+	]		
 }
