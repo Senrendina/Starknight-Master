@@ -3412,6 +3412,48 @@
                  "width":112,
                  "x":7408,
                  "y":1960
+                }, 
+                {
+                 "height":272,
+                 "id":967,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{ \"radioMessages\" : [\"StarknightHard\"] }",
+                     "stagehand":"radiomessage"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string",
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":112,
+                 "x":8424,
+                 "y":1760
+                }, 
+                {
+                 "height":120,
+                 "id":968,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{ \"radioMessages\" : [\"StarknightRemembering\"] }",
+                     "stagehand":"radiomessage"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string",
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":112,
+                 "x":9656,
+                 "y":1912
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3454,7 +3496,7 @@
          "y":0
         }],
  "nextlayerid":12,
- "nextobjectid":967,
+ "nextobjectid":969,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
