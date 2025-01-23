@@ -53,8 +53,21 @@
     "type" : "mission",
     "senderName" : "Ryoko",
     "portraitImage" : "/interface/chatbubbles/Kal'Thar.png:<frame>",	
-    "text" : "Take the things inside of that locker you will need it."		
+    "text" : "Take the things inside of that locker you will need it."
+  },
+  "StarknightRemembering" : {
+    "important" : true,
+    "type" : "mission",
+    "senderName" : "Ryoko",
+    "portraitImage" : "/interface/chatbubbles/Kal'TharHappy.png:<frame>",	
+    "text" : "Oh i remember that part. The satellite is nearby."		
+  },
+  "StarknightHard" : {
+    "important" : true,
+    "type" : "mission",
+    "senderName" : "Ryoko",
+    "portraitImage" : "/interface/chatbubbles/Kal'TharSurprised.png:<frame>",	
+    "text" : "Well that fight was hard. But why they want to shut down that satellite..."			
   }	  
 }  
-
 
