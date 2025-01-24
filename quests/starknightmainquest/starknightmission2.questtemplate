@@ -23,7 +23,7 @@
       }
     },
     "descriptions" : {
-      "enterInstance" : "Talk to ^orange;Toka^reset; to reach the ^orange;Satellite outpost^reset;",
+      "enterInstance" : "Talk to ^orange;Ryoko^reset; to reach the ^orange;Satellite outpost^reset;",
       "findGoal" : "^orange;Find the Solar Panel^reset;",
       "turnIn" : "Speak to ^orange;Ryoko^reset; at the ^orange;Starknight base^reset;"
     },
@@ -32,8 +32,8 @@
     "warpAction" : "instanceworld:ActivatingTheSatellite",
     "warpDialog" : "/interface/confirmation/starknightteleportconfirmation.config:SKmission2",
 
-    "goalTrigger" : "message",
-    "triggerMessage" : "starknight_Satelliterepaired",
+    "goalTrigger" : "proximity",
+    "proximityRange" : 5,
 	
     "goalEntityUid" : "starknight_goalMission2",
     "indicateGoal" : false,
