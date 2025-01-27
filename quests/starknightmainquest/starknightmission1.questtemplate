@@ -3,10 +3,10 @@
   "prerequisites" : [],
   "title" : "^orange;Starknight intro",
   "text" : "Hello there. You're new right ? Let me introduce you myself. My name is Ryoko the chief of this base. As you can see, we're quite busy so, do you think you can get me some of these component first ?",
-  "completionText" : "You brought me the parts! Wonderful!",
+  "completionText" : "You brought me the parts! Wonderful! PLease, take this weapon. It's a prototype of our Solarian Ally. it will be a great help to you.",
   "moneyRange" : [100, 100],
   "rewards" : [
-    [ [ "starknight_overammo", 1 ] ]
+    [ [ "SO_OrianBurst", 1 ] ]
   ],
 
   "updateDelta" : 10,
