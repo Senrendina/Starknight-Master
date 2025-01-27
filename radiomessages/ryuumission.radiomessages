@@ -46,7 +46,7 @@
     "type" : "mission",
     "senderName" : "Ryoko",
     "portraitImage" : "/interface/chatbubbles/Kal'Thar.png:<frame>",	
-    "text" : "That's some familiar structure now..."		
+    "text" : "Finally a open space."		
   },
   "StarknightAdvice" : {
     "important" : true,
