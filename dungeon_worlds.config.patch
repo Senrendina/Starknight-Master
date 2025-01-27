@@ -20,7 +20,7 @@
 "value":
 {
     "primaryDungeon" : "ActivatingTheSatellite",
-    "threatLevel" : 5,
+    "threatLevel" : 4,
     "gravity" : 80,
     "worldSize" : [2000, 2000],
     "dungeonBaseHeight" : 1500,
